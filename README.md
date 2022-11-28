@@ -36,11 +36,12 @@
         width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       />
-    </div>
-    <style type="text/css">
+       <style type="text/css">
       div {
         display: flex;
         align-items: center;
         justify-content: center;
       }
     </style>
+    </div>
+  
