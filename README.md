@@ -5,11 +5,10 @@
 - 🌐 Porfolio: https://newportfolio-wheat.vercel.app/
 - 👤 Linkedin: https://www.linkedin.com/in/allison-silveira-andrade-b90891217/
 
-##
+  ##
 
 <div> 
-  <a href="# target="_blank"><img src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
- 
+<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
   
