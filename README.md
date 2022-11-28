@@ -10,7 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllisonSilveiraDev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-   <div>
+   <div display: flex;
+        align-items: center;
+        justify-content: center;>
       <br />
       <img
         alt="HTML"
@@ -36,12 +38,5 @@
         width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       />
-       <style type="text/css">
-      div {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-    </style>
     </div>
   
