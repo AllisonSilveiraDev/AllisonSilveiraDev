@@ -4,7 +4,6 @@
 - 🌐 Porfolio: https://newportfolio-wheat.vercel.app/
 - 😀 Linkedin: https://www.linkedin.com/in/allison-silveira-andrade-b90891217/
 - l1nq.com/7QF14
-- 📱 celular: (51) 9 9731-1483 - WhatsApp: l1nq.com/7QF14
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
