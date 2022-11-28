@@ -1,4 +1,5 @@
 - 😀 Sempre gostei de tecnologia e de aprender coisas novas, isso me levou a encontrar este mundo incrível da programação, onde fico impressionado com como podemos evoluir, aprender e construir coisas grandiosas, tenho 26 anos moro no RS e quero me tornar um grande desenvolvedor.
+- 📚 Jà estudei pelo Discovery da Rocketseat, Udemy, Youtube e atualmente estudando através do curso engenheiro Front-end da EBAC (escola britânica de artes criativas & tecnologias)
 - 🖥️ Tenho interrese atualmente em React, TypeScript, NextJs
 - 📫 Email: allisonsilveiradev@gmail.com
 - 📱  Celular: (51) 9 9731-1483
