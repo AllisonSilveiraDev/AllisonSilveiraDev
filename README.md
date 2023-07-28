@@ -1,4 +1,5 @@
-- 😀 Sempre gostei de tecnologia e de aprender coisas novas, isso me levou a encontrar este mundo incrível da programação, onde fico impressionado com como podemos evoluir, aprender e construir coisas grandiosas, tenho 26 anos moro no RS.
+- 😀 Sempre gostei de tecnologia e de aprender coisas novas, isso me levou a encontrar o mundo incrível da programação, tenho 26 anos moro em uma pequena cidade do Rio grande do sul.
+- Trabalhando com Laravel e Angular.
 - 📚 Atualmente estudando analise e desenvolvimento de sitemas na Uninter.
 - 📫 Email: allisonsilveiradev@gmail.com
 - 📱  Celular: (51) 9 9731-1483
