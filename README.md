@@ -27,7 +27,7 @@ Continuo estudando todos os dias para buscar a excelência no trabalho como dese
 
 ### Experiência Profissional:
 
-[<img align="left" height="64px" width="161px" alt="Warpnet" target="_blank" src="https://brasil.imdt.com.br/resources/images/dist/site/imdt.png"/>](https://brasil.imdt.com.br/)
+[<img align="left" height="64px" width="161px" alt="Warpnet" src="https://brasil.imdt.com.br/resources/images/dist/site/imdt.png"/>](https://brasil.imdt.com.br/)
 
 **Desenvolvedor de software** \
 [**IMDT**](https://brasil.imdt.com.br/) • Full-time - Remoto \
