@@ -1,14 +1,15 @@
 ## Olá meu nome é Allison Silveira, seja bem-vindo(a) ao meu perfil no Github!! 👋
+- 🏦 Atualmente trabalho como desenvolvedor web `Laravel` e `Angular` na empresa IMDT
+- 🖥️ Dois anos de experiencia como desenvolvedor full-stack
 - 🏠 Sou de Três Coroas - RS
 - 📚 Estudante de análise e desenvolvimento de sistemas
-- 🏦 Atualmente trabalho como desenvolvedor web `Laravel` e `Angular` na empresa IMDT
+
 - 📫 Email: allisonsilveiradev@gmail.com
-- 💻 Linkedin: [https://www.linkedin.com/in/allison-dev-front-end/](https://www.linkedin.com/in/allison-dev-front-end/)
+- [Linkedin](https://www.linkedin.com/in/allison-developer/)
 ##
 
 ### Sobre mim:
-Iniciei nos meus estudos com React e continuei estudando até que surgiu a oportunidade de trabalhar como desenvolvedor full stack, atualmente trabalho desenvolvendo e dando manutenção a um sistema com AngularJs no front-end e Laravel no back-end que está sendo migrado para Angular, que está me permitindo aprender muito tanto a parte de front-end quanto na parte do back-end.
-Continuo estudando todos os dias para buscar a excelência no trabalho como desenvolvedor, sou apaixonado por tecnologia, jogos e natureza.
+Com dois anos de experiência como desenvolvedor, atuo atualmente com Angular no frontend e Laravel no backend. Estou sempre em busca de aprimorar meus conhecimentos e evoluir profissionalmente. No momento, estou no último semestre de Análise e Desenvolvimento de Sistemas, focado em consolidar minha expertise e explorar novas tecnologias.
 ##
 
 ### Minhas principais tecnologias:
