@@ -1,47 +1,34 @@
-## Olá meu nome é Allison Silveira, seja bem-vindo(a) ao meu perfil no Github!! 👋
-- 🏦 Atualmente trabalho como desenvolvedor web `Laravel` e `Angular` na empresa IMDT
-- 🖥️ Três anos de experiencia como desenvolvedor full-stack
-- 🏠 Sou de Três Coroas - RS
-- 📚 Formado em análise e desenvolvimento de sistemas
+### Olá, eu sou o Allison Silveira 👋
 
-- 📫 Email: allisonsilveiradev@gmail.com
-- [Linkedin](https://www.linkedin.com/in/allison-developer/)
-##
+**Engenheiro de Dados** com sólida base em **Engenharia de Software**, atuando na construção de pipelines de dados escaláveis, arquiteturas Data Lakehouse e ingestão orientada a metadados no setor financeiro e de meios de pagamento.
 
-### Sobre mim:
--
-##
+Atuo no ciclo completo de engenharia de dados (End-to-End): desde a análise e extração em batch de diversas fontes de origem até a disponibilização de camadas analíticas otimizadas no Data Lake (`Landing`, `Raw`, `Stage` e `Common`), aplicando boas práticas de desenvolvimento, versionamento e CI/CD.
 
-### Minhas principais tecnologias:
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</div>
+---
 
-##
+### 🚀 Principais Competências & Arquitetura
 
-### Experiência Profissional:
+* **Engenharia de Dados & Lakehouse:** Databricks, Delta Lake, Arquitetura em Camadas (Landing, Raw, Stage, Common), Metadata-Driven Ingestion (JSON).
+* **Orquestração & ETL/ELT:** Azure Data Factory (ADF), Databricks Jobs, Oracle Data Integrator (ODI), ingestão de múltiplas fontes corporativas e externas.
+* **Bancos de Dados & Linguagens:** SQL (Avançado), Python / PySpark, Oracle Database, PostgreSQL, MySQL.
+* **Engenharia de Software & DevOps:** Azure DevOps (Git, Pull Requests, Code Review, Pipelines de CI/CD), desenvolvimento de APIs RESTful e aplicações web (Laravel/PHP, Angular).
 
-[<img align="left" height="64px" width="161px" alt="Warpnet" src="https://brasil.imdt.com.br/resources/images/dist/site/imdt.png"/>](https://brasil.imdt.com.br/)
+---
 
-**Desenvolvedor de software** \
-[**IMDT**](https://brasil.imdt.com.br/) • Full-time - Remoto \
-Competências: `Desenvolvimento Web`, `Front-end`, `Back-end`, 
+### 🛠️ Stack Tecnológica
 
-##
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="center">
-  <a href="https://github.com/AllisonSilveiraDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllisonSilveiraDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllisonSilveiraDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
+---
 
-  
-  
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allisonsilveiradev@gmail.com)
