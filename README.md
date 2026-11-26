@@ -1,17 +1,15 @@
 ### Olá, eu sou o Allison Silveira 👋
 
-**Engenheiro de Dados** com sólida base em **Engenharia de Software**, atuando na construção de pipelines de dados escaláveis, arquiteturas Data Lakehouse e ingestão orientada a metadados no setor financeiro e de meios de pagamento.
-
-Atuo no ciclo completo de engenharia de dados (End-to-End): desde a análise e extração em batch de diversas fontes de origem até a disponibilização de camadas analíticas otimizadas no Data Lake (`Landing`, `Raw`, `Stage` e `Common`), aplicando boas práticas de desenvolvimento, versionamento e CI/CD.
+**Engenheiro de Dados** com sólida base em **Engenharia de Software**, especializado na construção e automação de pipelines de dados End-to-End em ambientes Cloud (Microsoft Azure) e On-Premise. Experiência prática na extração de sistemas transacionais (OLTP), orquestração via Azure Data Factory (ADF), processamento distribuído com Apache Spark e PySpark no Databricks e ingestão orientada a metadados (JSON) para arquiteturas Data Lakehouse estruturadas em camadas Medalhão (Bronze, Silver e Gold) sobre Delta Lake. Aplica boas práticas de engenharia de software, versionamento Git e esteiras de CI/CD com Azure DevOps para garantir escalabilidade, governança e qualidade na entrega de dados analíticos.
 
 ---
 
 ### 🚀 Principais Competências & Arquitetura
 
-* **Engenharia de Dados & Lakehouse:** Databricks, Delta Lake, Arquitetura em Camadas (Landing, Raw, Stage, Common), Metadata-Driven Ingestion (JSON).
-* **Orquestração & ETL/ELT:** Azure Data Factory (ADF), Databricks Jobs, Oracle Data Integrator (ODI), ingestão de múltiplas fontes corporativas e externas.
-* **Bancos de Dados & Linguagens:** SQL (Avançado), Python / PySpark, Oracle Database, PostgreSQL, MySQL.
-* **Engenharia de Software & DevOps:** Azure DevOps (Git, Pull Requests, Code Review, Pipelines de CI/CD), desenvolvimento de APIs RESTful e aplicações web (Laravel/PHP, Angular).
+* **Cloud & Data Lakehouse:**	Azure Data Factory (ADF), Databricks, Delta Lake, Data Lakehouse, Arquitetura Medalhão (Bronze, Silver, Gold), Ingestão Orientada a Metadados (JSON).
+* **Engenharia & ETL:**	Pipelines End-to-End, Apache Spark, PySpark, Extração de Sistemas OLTP, Oracle Data Integrator (ODI 12c), Modelagem de Dados, Automação de Workflows.
+* **Linguagens & Dados:**	Python, PySpark, SQL Avançado, Oracle Database, PostgreSQL, MySQL, MongoDB, TypeScript, JavaScript, PHP.
+* **DevOps & Software	Azure:** DevOps (CI/CD), Git, GitHub, Docker, Linux (Ubuntu), APIs RESTful (Laravel, NestJS), Angular.
 
 ---
 
